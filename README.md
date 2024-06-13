@@ -16,3 +16,7 @@ pip install requests pydub edge-tts
 ## 注意事项
 1. 小说文件是以章节名进行分章节音频文件生成的，所以请确保小说txt文件内容中包含章节，形式满足第**章的格式，且章节标题单独成行。
 2. 代码主体内容是基于ChatGPT生成的，经过本人的调试，本人本地运行没有问题，但是本人对python并不熟悉，所以代码可能并不美观，请轻喷。
+3. 本项目仅供学习和研究使用，不得用于商业用途。
+## 贡献
+感谢开源项目： https://github.com/xfgryujk/blivedmhttps://github.com/rany2/edge-tts
+
